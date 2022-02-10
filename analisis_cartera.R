@@ -11,7 +11,7 @@
 #   Se elige un conjunto de datos que contenga variables cuantitativas correlacionadas y 
 #   al menos una variable categ?rica. 
 
-### An?lisis:
+### Analisis:
 #   Se estudiar?n anal?tica y gr?ficamente las dependencias entre las variables y a trav?s de 
 #   los niveles de la variable categ?rica. 
 #   Se incluir?n gr?ficos m?ltiples de caja, histogramas, gr?ficos matriciales etc. 
